@@ -1,0 +1,25 @@
+manifest/helm/cosmoparrot/Chart.yaml
+  s_3734373af30475::t_a16ab19a49aad3 8
+manifest/helm/cosmoparrot/templates/deployment.yaml
+  s_3734373af30475::t_f05459584d0073 93-96,99,101-103
+  s_3734373af30475::t_a16ab19a49aad3 9,11,97,100,104
+manifest/helm/cosmoparrot/values.yaml
+  s_3734373af30475::t_f05459584d0073 62-67
+  s_3734373af30475::t_a16ab19a49aad3 68-88
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.6.16",
+  "base_commit_sha": "7c3e9bf606077f0a33ed5ec1f92a2630e316b211",
+  "prompts": {},
+  "sessions": {
+    "s_3734373af30475": {
+      "agent_id": {
+        "tool": "github-copilot",
+        "id": "aea8d2b9-c71b-4d3d-8497-cb4e09102dad",
+        "model": "gpt-5.3-codex"
+      },
+      "human_author": "Christian Ingenhaag <christian.ingenhaag@telekom.de>"
+    }
+  }
+}
